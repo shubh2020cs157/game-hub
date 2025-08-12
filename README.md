@@ -161,17 +161,3 @@ The application uses Chakra UI's theming system, making it easy to customize:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- [RAWG](https://rawg.io/) for providing the comprehensive games database API
-- [Chakra UI](https://chakra-ui.com/) for the excellent component library
-- [React Icons](https://react-icons.github.io/react-icons/) for the beautiful icon set
-
----
-
-**Happy Gaming! 🎮✨**
