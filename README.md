@@ -2,6 +2,12 @@
 
 GameHub is a modern, responsive video game discovery web application built with React and TypeScript. It helps users explore and discover new games by providing comprehensive filtering, searching, and browsing capabilities powered by the RAWG Video Games Database API.
 
+## 🌐 Live Demo
+
+🚀 The project is deployed on **AWS Amplify**. You can explore it here:  
+👉 [GameHub on Amplify]
+  (https://main.d2em6p3m5d4u12.amplifyapp.com/)
+
 ## ✨ Features
 
 ### 🔍 Game Discovery
